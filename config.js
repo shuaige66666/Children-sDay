@@ -34,7 +34,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        children_coming: "颜色",
+        bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
         cake_fadein: "玩偶？",
         light_candle: "棒棒糖？",
