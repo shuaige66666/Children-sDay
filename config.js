@@ -36,8 +36,8 @@ var config = {
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
-        cake_fadein: "玩偶？",
-        light_candle: "棒棒糖？",
+        cake_fadein: "蛋糕？",
+        light_candle: "玩偶？",
         wish_message: "儿童节快乐",
         story: "A MESSAGE FOR YOU",
     }
